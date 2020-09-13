@@ -1,6 +1,6 @@
 nodejs,mysql2/promise,express,ejs
 
-# CRUD 게시판 만들기.
+# 기초 CRUD 게시판 만들기.
 ## 0. previous assignment
 ```javascript
 var express = require('express')
