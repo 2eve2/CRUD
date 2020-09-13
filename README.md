@@ -1,3 +1,5 @@
+nodejs,mysql2/promise,express,ejs
+
 # CRUD 게시판 만들기.
 ## 0. previous assignment
 ```javascript
